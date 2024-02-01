@@ -1,0 +1,17 @@
+{
+    "user1": {
+        "publicKey": "ab9d3a436b9606eecdb1231ad680700a34b0c029ce005e43b12a4570823341f2",
+        "privateKey": "d973321155d94557",
+        "tokens": 100
+    },
+    "user2": {
+        "publicKey": "badc0a41e1b2e90ed15408ddaff91436f2614842c929e4b8d948e7571f1e088e",
+        "privateKey": "8c1c57226b454440",
+        "tokens": 100
+    },
+    "user3": {
+        "publicKey": "2f40d430244b57bb6c9ef369abbd1aef5e286db2410a2fce7d512a2ecad6eefc",
+        "privateKey": "18e9f4dad21df014",
+        "tokens": 100
+    }
+}

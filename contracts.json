@@ -1,0 +1,22 @@
+{
+    "childContract1": {
+        "parentPublicKey": "360d727330d2943ae8eefbdb02e2c91ba0cbadf80f0e297e0778fe3957bdd49b",
+        "distribution": {
+            "user1": 25,
+            "user2": 25
+        }
+    },
+    "contract1": {
+        "parentPublicKeys": [
+            "be94e18f61027c984b5e2ac92b3067bc139df9f5ff5360e53d2214fa02a24cb5",
+            "e73b72b7e51f0c00a98d5f18ec6d62ab46793792ecaea3afdb8a632cd1b9eee5",
+            "dd456b6fb9d8abe0c7d4a66442c6552ec53e2b87f70126c027fea7ab0c28ed59"
+        ],
+        "collectedAmount": 150,
+        "distribution": {
+            "user1": 50,
+            "user2": 50,
+            "user3": 50
+        }
+    }
+}
